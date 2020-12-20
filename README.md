@@ -11,7 +11,7 @@
 #
 ## For VM options : --module-path "path-to-openjfx-lib-folder" --add-modules javafx.controls,javafx.fxml
 #
-In this project, bidirectional bindings have been used between the Sliders and the TextFields such that modifying a TextField’s value updates the corresponding slider.
+In this project, bidirectional bindings have been used between the Sliders and the TextFields such that modifying a TextField’s value updates the corresponding slider and vice versa.
 #
 
 
